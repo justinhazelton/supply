@@ -3,7 +3,7 @@
     <h1 class="text-lg">{{ blok.name }}</h1>
   </div>
 </template>
- 
+
 <script setup>
-defineProps({ blok: Object })
+defineProps({ blok: Object });
 </script>

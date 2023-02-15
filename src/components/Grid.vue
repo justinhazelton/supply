@@ -5,7 +5,7 @@
     </div>
   </div>
 </template>
- 
+
 <script setup>
-defineProps({ blok: Object })
+defineProps({ blok: Object });
 </script>
