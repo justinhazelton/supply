@@ -7,7 +7,7 @@ createApp(App).mount('#app')
 
 
 
-
+ 
 // Connect to Storyblok with API access token
 //import { createApp } from 'vue';
 import { StoryblokVue, apiPlugin } from '@storyblok/vue';
